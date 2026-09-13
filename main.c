@@ -147,7 +147,7 @@ int main() {
                 media = soma / avaliados;
 
                 printf("Filmes avaliados: %d\n", avaliados);
-                printf("Soma das notas e: %.2f\n", soma);
+                printf("Soma das notas: %.2f\n", soma);
                 printf("Media das notas: %.2f\n", media);
                 printf("Maior nota: %.2f\n", maior);
                 printf("Menor nota: %.2f\n", menor);
